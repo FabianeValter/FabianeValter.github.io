@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+ <body>
+
+	<h1>Receita Fácil De Deliciosos Cookies</h1>
+
+	<h2>Ingredientes Necessários Para a Receita</h2>
+
+    <ul>
+      <li>125g de manteiga sem sal</li>
+      <li>Meia xícara de açúcar mascavo</li>
+      <li>300g de chocolate picado</li>
+      <li>3/4 xícara de açúcar</li>
+      <li>1 ovo</li>
+      <li>1 colher (chá) de fermento em pó</li>
+      <li>1 colher (chá) de essência de baunilha</li>
+    </ul>  
+
+    <h2>Passo A Passo</h2>
+
+    <ol>
+      <li> Misture a manteiga, açúcar mascavo, açúcar, essência de baunilha (e chocolate em pó, se for fazer cookies com base de chocolate)</li>
+      <li>Adicione o ovo batido aos poucos e misture bem.</li>
+      <li>Acrescente a farinha aos poucos e misture bem (pode ser na mão ou na batedeira planetária)</li>
+      <li>Por último, adicione o fermento e misture só para incorporá-lo à massa.</li>
+      <li>Depois da massa bem misturada, adicione o chocolate picado.</li>
+      <li>Forme bolinhas pequenas e asse em forno preaquecido, sobre papel manteiga, por aproximadamente 15 a 20 minutos (250° C).</li>
+
+   </ol> 
+
+ </body>
+</html>
+
